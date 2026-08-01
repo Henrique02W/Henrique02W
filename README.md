@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🛠️ Desenvolvedor focado em ecossistemas completos: plugins de Minecraft, bots/integrações de Discord e aplicações full-stack em .NET.
+  🛠️ Dev maluco focado em tudo um pouco: plugins de Minecraft, bots/integrações de Discor.
 </p>
 
 ---
@@ -16,9 +16,7 @@
 ### 🚀 Sobre mim
 
 * 🔭 Trabalhando em uma família de plugins para servidores de Minecraft (Paper/Spigot), do gameplay ao chat e à economia
-* 🌎 Construo também fora do Minecraft: apps mobile em .NET MAUI, backends em ASP.NET Core, e launchers customizados
 * 🧩 Gosto de projetos ponta a ponta: arquitetura completa, separação de camadas, e entrega de código pronto para produção
-* 🇧🇷 Baseado no Brasil, com integrações voltadas ao ecossistema local (Open Finance BR, BRL, retailers nacionais)
 * 📫 Contato: [GitHub](https://github.com/Henrique02W) · Discord: `henrique02#7075`
 
 ---
@@ -57,12 +55,6 @@ Um conjunto de plugins que se integram entre si para formar uma experiência com
 
 ---
 
-### 💻 Outros Projetos
-
-* 💰 **App de finanças pessoais** — solução completa em .NET 9 (MAUI + ASP.NET Core + PostgreSQL + Redis), com integração Open Finance BR, multi-moeda com BRL como base e câmbio via API do Banco Central
-* 🎮 **CrazyLauncher** — launcher customizado para Minecraft 1.21.8 com NeoForge, feito em Avalonia UI, com OAuth da Microsoft, contas offline e instalação automática de Java/NeoForge
-
----
 
 ### 📊 Estatísticas
 
