@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Henrique 👋</h1>
+<h1 align="center">Hi peoples, Henrique02 aq👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/foco-Java%20%7C%20.NET-orange" />
