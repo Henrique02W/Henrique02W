@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🛠️ Dev maluco focado em tudo um pouco: plugins de Minecraft, bots/integrações de Discor.
+  🛠️ Dev maluco focado em tudo um pouco: plugins de Minecraft, bots/integrações de Discord.
 </p>
 
 ---
